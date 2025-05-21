@@ -1,0 +1,28 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "name": "Sadman ",
+            "email": "s20@gmail.com" 
+        },
+        {
+            "id":"2",
+            "name": "Pias",
+            "email": "Pias20@gmail.com"  
+        }
+    ],
+    "products":[
+        {
+            "id":"1",
+            "name": "Prodeuct 1",
+            "price": 100,
+            "product_category": "shirt" 
+        },
+        {
+            "id":"2",
+            "name": "Prodeuct 2",
+            "price": 200,
+            "product_category": "Pants" 
+        }
+    ]
+}
